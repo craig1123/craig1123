@@ -1,5 +1,7 @@
 [![Craig's GitHub stats](https://github-readme-stats.vercel.app/api?username=craig1123)](https://github.com/anuraghazra/github-readme-stats)
 
+![Metrics](https://metrics.lecoq.io/craig1123?template=classic&languages=1&isocalendar=1&isocalendar.duration=full-year&languages.colors=github&config.timezone=America%2FLos_Angeles&config.animated=true)
+
 
 <!--
 **craig1123/craig1123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
