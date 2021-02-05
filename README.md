@@ -1,6 +1,6 @@
 [![Craig's GitHub stats](https://github-readme-stats.vercel.app/api?username=craig1123)](https://github.com/anuraghazra/github-readme-stats)
 
-![Metrics](https://github.com/my-github-user/my-github-user/blob/main/github-metrics.svg)
+![Metrics](https://github.com/craig1123/craig1123/blob/main/github-metrics.svg)
 
 
 <!--
