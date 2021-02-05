@@ -1,6 +1,6 @@
 [![Craig's GitHub stats](https://github-readme-stats.vercel.app/api?username=craig1123)](https://github.com/anuraghazra/github-readme-stats)
 
-![Metrics](https://metrics.lecoq.io/craig1123?template=classic&languages=1&isocalendar=1&isocalendar.duration=full-year&languages.colors=github&config.timezone=America%2FLos_Angeles&config.animated=true)
+![Metrics](https://github.com/my-github-user/my-github-user/blob/main/github-metrics.svg)
 
 
 <!--
